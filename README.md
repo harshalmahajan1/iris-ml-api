@@ -1,3 +1,5 @@
+[![Run ML API Tests](https://github.com/harshalmahajan1/iris-ml-api/actions/workflows/tests.yml/badge.svg)](https://github.com/harshalmahajan1/iris-ml-api/actions/workflows/tests.yml)
+
 # Iris ML Prediction API
 
 A machine learning project that predicts Iris flower species using scikit-learn and PyTorch, exposed through a REST API built with FastAPI.
